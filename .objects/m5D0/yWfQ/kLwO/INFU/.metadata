@@ -1,0 +1,16 @@
+﻿{
+  "Id": "INFUBK7DekKY6e1IbITA4g",
+  "Reference": "9m9A6AkntEu4b78nOP2X4A/INFUBK7DekKY6e1IbITA4g",
+  "ParentRef": "9m9A6AkntEu4b78nOP2X4A/kLwOPrvIWUu1SstSxrLM2A",
+  "Name": "TaxID: RO125678",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-10-31T13:43:47.3640772Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-31T13:52:59.7480803Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
